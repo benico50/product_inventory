@@ -30,3 +30,10 @@ Pylint has been used as a baseline.
 # Contribution
 Access to contribute has been restricted currently. This is due to me wanting to remove an element of confusion in my own code base. I plan to open this up once I'm more comfortable.
 
+# Planned improvements
+- Increase the readability of the inventory display. Currently product ID's and their information aren't showing in an optimal format.
+- Tweak GUI to better display labels and contents
+- Force GUI window on additional Tkinter windows
+- Allow additional product information to be added
+- Allow other inventory search terms - rather than just by ID
+
